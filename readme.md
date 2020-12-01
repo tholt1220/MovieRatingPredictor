@@ -4,7 +4,7 @@ the folder movieratepredictions (not include with
 submission due to space limitations) is at the
 top level of the directory.
 
-###Collaborative Filtering with the Surprise library
+### Collaborative Filtering with the Surprise library
 files required:
 surprise.ipynb
 train_ratings.csv
@@ -30,7 +30,7 @@ run each jupyter notebook cell from top to bottom.
 output:
 submission.csv - contains the prediction ratings in the kaggle_sample_submission format
 
-###Collaborative Filtering with the Keras Library
+### Collaborative Filtering with the Keras Library
 files required:
 Keras2.ipynb
 train_ratings.csv
@@ -63,7 +63,7 @@ WARNING: WILL TAKE A VERY LONG TIME
 output:
 submission.csv - contains the prediction ratings in the kaggle_sample_submission format
 
-###Collaborative Filtering with the FastAi Library
+### Collaborative Filtering with the FastAi Library
 files required:
 fastai.ipynb
 train_ratings.csv
